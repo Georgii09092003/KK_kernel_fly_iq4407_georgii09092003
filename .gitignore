@@ -1,0 +1,16 @@
+*.~
+*~
+*.old
+*.bak
+*.orig
+
+.*
+*.o
+*.o.*
+
+.gitignore
+!.gitignore
+
+out/
+script/boot.img
+script/log/
